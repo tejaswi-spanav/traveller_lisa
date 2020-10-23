@@ -1,0 +1,80 @@
+.bgimg{
+	background-image:url(bgimg.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 700px; 
+    width: 100%;
+    /*opacity: 0.7;*/
+}
+
+.bgimg:hover{
+	opacity: 0.9;
+}
+
+.personimg{
+	background-image:url(person.jpg);
+	background-position: center; background-size: cover;
+    position:absolute; top: 300px;left:45%;border-radius: 50%; opacity: 1.0;
+    height:150px; width:150px;
+
+}
+
+td{
+	padding: 15px;
+}
+table{
+	
+	margin: 0 auto;
+}
+
+.nav.navbar-nav.navbar-right li a{
+	color: gold;
+	font-size: large;
+}
+
+.nav.navbar-nav.navbar-right li a:hover{
+	color: white;
+}
+.col-sm-4 table tbody tr td a i{
+	font-size:20px;
+	margin-right: 20px;
+	color:white;
+	padding:5px;
+}
+.col-sm-4 table thead th{
+	color: #c0c0c0;
+	font-size: x-large;
+}
+h2{
+	text-align: center;
+	padding-bottom: 20px;
+	color:black;
+	text-decoration: underline overline;
+}
+.intro p{
+	color:white;
+	 font-size: x-large;
+}
+h3{
+	text-align: center;
+	padding-bottom: 20px;
+	color:white;
+	text-decoration: underline overline;
+}
+
+body{
+	overflow-x: hidden;
+}
+#events{
+	 
+	background-color: black;
+	background-image: url(map5.jpg); 
+    
+}
+/*.item img{
+	opacity: 0.3;
+}*/
+/*#events background-image{
+	opacity: 0.2;
+}*/
