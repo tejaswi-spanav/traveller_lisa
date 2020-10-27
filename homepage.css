@@ -63,7 +63,7 @@ h3{
 	text-decoration: underline overline;
 }
 
-body{
+html,body{
 	overflow-x: hidden;
 }
 #events{
