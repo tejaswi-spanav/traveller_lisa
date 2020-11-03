@@ -8,6 +8,15 @@
     /*opacity: 0.7;*/
 }
 
+.kontainer {
+
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
 .bgimg:hover{
 	opacity: 0.9;
 }
